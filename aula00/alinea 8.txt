@@ -1,0 +1,4 @@
+name = input("Primeiro nome? ")
+surname = input("Apelido? ")
+course = input("Curso? ")
+print("Ola, {} {}!\nBem vindo ao curso de {}!".format(name, surname, course)) 
